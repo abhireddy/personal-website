@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://abhireddy.com"
+baseurl = "https://abhireddy.github.io/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
