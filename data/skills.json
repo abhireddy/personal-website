@@ -1,0 +1,15 @@
+{
+	"title" : "Skills",
+	"skills" : {
+		"SQL" : "95",
+		"Python (pandas, statsmodels, seaborn)" : "75",
+		"JavaScript / Google Apps Script" : "85",
+		"Excel & VBA" : "95",
+		"Tableau" : "95",
+		"Google Data Studio": "95",
+		"D3.js": "25",
+		"Plotly & Dash": "25",
+		"HTML & CSS": "60",
+		"PHP": "60"
+	}
+}

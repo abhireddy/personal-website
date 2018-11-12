@@ -1,0 +1,25 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Jan 2017 - Present",
+			"company" : "Blue Apron",
+			"description" : "Working on improving shipping accuracy and reducing food waste, using data gathered from carrier tracking scans and our homegrown WMS."
+		},
+		{
+			"timeperiod" : "June 2013 - Jan 2017",
+			"company" : "McMaster-Carr",
+			"description" : "Floor supervisor at an e-commerce distribution center. Managed a capacity balancing model and wrote an algorithm to rotate order pickers through work stations that was loosely based on Reddit's \"hot\" scoring system."
+		},
+		{
+			"timeperiod" : "Graduated May 2013",
+			"company" : "Brown University",
+			"description" : "Bachelors in Economics & International Relations. Coursework in econometrics, game theory, corporate strategy, and computer science."
+		},
+		{
+			"timeperiod" : "Summer 2012",
+			"company" : "Runa Tea",
+			"description" : "Interned at a startup beverage company that supports indigenous communities in Ecuador."
+		}
+	]
+}
